@@ -1,0 +1,5 @@
+{
+  "name": "SNAKE AND LADDER",
+  "description": "A modern, animated Snake and Ladders game for two players featuring dynamic board transitions and a real-time game log.",
+  "requestFramePermissions": []
+}
